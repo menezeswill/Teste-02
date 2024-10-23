@@ -1,5 +1,7 @@
 # Manga OCR
 
+# Teste Cloning
+
 Optical character recognition for Japanese text, with the main focus being Japanese manga.
 It uses a custom end-to-end model built with Transformers' [Vision Encoder Decoder](https://huggingface.co/docs/transformers/model_doc/vision-encoder-decoder) framework. 
 
